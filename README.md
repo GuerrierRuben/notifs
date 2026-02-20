@@ -1,1 +1,1 @@
-Projè konfihire resevwa notification 
+Projè konfigire resevwa notification 
